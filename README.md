@@ -42,12 +42,11 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shriyaa29&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shriyaa29&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriyaa29&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriyaa29&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 
 </div>
-
 ---
 
 ## 📈 Contribution Graph
