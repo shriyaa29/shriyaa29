@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • AI & Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=7F56D9&center=true&vCenter=true&width=600&lines=Building+Full+Stack+Applications;Exploring+AI+%26+Machine+Learning;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=7F56D9&center=true&vCenter=true&width=600&lines=Building+Full+Stack+Applications;Exploring+AI+%26+Machine+Learning;Creating+Solutions+Through+Code"/>
 
 </div>
 
@@ -12,10 +12,12 @@
 
 ## 👩🏻‍💻 About Me
 
-- 💻 Passionate about **Full Stack Development**, **AI**, and **Machine Learning**
-- 🌱 Currently learning **FastAPI**, **Docker**, **TensorFlow**, and **GitHub Actions**
-- 🚀 Interested in building scalable web applications and intelligent systems
-- 🤝 Open to collaborating on impactful open-source and AI projects
+I'm a developer passionate about creating **full-stack applications** and exploring **AI-driven solutions**.
+
+- 💻 Building applications with Python and JavaScript ecosystems
+- 🤖 Exploring Machine Learning, Deep Learning, and Data Analytics
+- 🌱 Currently learning FastAPI, Docker, TensorFlow, and CI/CD workflows
+- 🚀 Interested in scalable systems and impactful software projects
 
 ---
 
@@ -23,33 +25,29 @@
 
 | Category | Technologies |
 |-----------|--------------|
-| **Languages** | HTML5 • JavaScript • Python • C++ |
+| **Languages** | Python • JavaScript • C++ • HTML5 |
 | **Frontend** | React • Vite • Bootstrap |
 | **Backend** | Django • FastAPI • Flask |
 | **Database** | MongoDB • MySQL |
-| **AI / ML** | TensorFlow • Scikit-learn • NumPy • Pandas • Matplotlib |
-| **Tools** | Git • GitHub • Docker • GitHub Actions • Vercel • Canva • Figma |
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,js,python,cpp,react,vite,django,fastapi,flask,mongodb,mysql,docker,git,github,githubactions,vercel&perline=8"/>
-
-</div>
+| **AI / Data Science** | TensorFlow • Scikit-learn • NumPy • Pandas • Matplotlib |
+| **Tools & Platforms** | Git • GitHub • Docker • GitHub Actions • Vercel |
+| **Design** | Figma • Canva |
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
 
-<div align="center">
+| Project | Description |
+|---------|-------------|
+| 🌐 Portfolio Website | Personal developer portfolio |
+| 🤖 AI & ML Projects | Machine learning experiments and models |
+| ⚡ FastAPI Applications | Backend APIs and services |
+| 📊 Data Analytics Projects | Data processing and visualization |
+| 💻 Full Stack Applications | End-to-end web solutions |
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shriyaa29&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shriyaa29&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-
-</div>
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -59,17 +57,13 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🐍 Contribution Snake
 
-> Replace these with links to your pinned repositories.
+<div align="center">
 
-| Project | Description |
-|---------|-------------|
-| 🌐 Portfolio Website | Personal portfolio showcasing my work and projects |
-| 🤖 AI & Machine Learning | ML models and AI experiments |
-| ⚡ FastAPI REST API | Backend services built with FastAPI |
-| 📊 Data Analytics | Python-based data analysis and visualization |
-| 💻 Full Stack Application | End-to-end web application using React and Django |
+<img src="https://raw.githubusercontent.com/shriyaa29/shriyaa29/output/github-contribution-grid-snake.svg"/>
+
+</div>
 
 ---
 
